@@ -1,0 +1,4 @@
+# Local datasets (keep out of Git/GitHub)
+/data/**
+!/data/README.md
+!/data/.gitkeep
