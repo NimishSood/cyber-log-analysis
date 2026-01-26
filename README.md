@@ -12,6 +12,7 @@ is structured, labeled, and constrained by its collection methodology.
 ## Data Source & Provenance
 The dataset used in this project is **CIC-IDS-2017**, obtained directly from the official
 repository published by the **Canadian Institute for Cybersecurity (CIC)**.
+Link: [Dataset Download Link](http://cicresearch.ca/CICDataset/CIC-IDS-2017/)
 
 - Dataset: CIC-IDS-2017
 - Publisher: Canadian Institute for Cybersecurity, University of New Brunswick
