@@ -3,7 +3,7 @@
 Utility functions for CIC-IDS-2017 exploration.
 
 Design goals:
-- Keep notebooks clean and focused on storytelling.
+- Keep notebooks clean.
 - Make common inspections reusable and reproducible.
 - Avoid hardcoded absolute paths; use Path objects.
 """
