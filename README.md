@@ -57,6 +57,18 @@ structure separating raw data, notebooks, and source code, and includes an expli
 dependency list. Current notebooks focus on data loading, schema inspection, and initial
 dataset understanding.
 
+Python dependencies are pinned in `requirements.txt` (with exact versions). Install them with:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+Pinned packages:
+- `pandas==3.0.0`
+- `numpy==2.4.1`
+- `jupyter==1.1.1`
+- `ipykernel==7.1.0`
+
 ## Current Status
 This repository currently focuses on data acquisition, validation of dataset structure,
 and exploratory inspection of feature distributions and labels. More advanced exploratory
